@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/giovanni/C class/C class /Question 3/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu2x -arch arm64 -fcolor-diagnostics -o CMakeFiles/Question_3.dir/main.c.o -c \"/Users/giovanni/C class/C class /Question 3/main.c\"",
+  "file": "/Users/giovanni/C class/C class /Question 3/main.c",
+  "output": "/Users/giovanni/C class/C class /Question 3/cmake-build-debug/CMakeFiles/Question_3.dir/main.c.o"
+}
+]

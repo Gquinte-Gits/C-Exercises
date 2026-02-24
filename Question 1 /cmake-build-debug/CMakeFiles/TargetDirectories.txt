@@ -1,0 +1,3 @@
+/Users/giovanni/C class/C class /Assignment_1_Giovanni_Quintero/cmake-build-debug/CMakeFiles/Assignment_1_Giovanni_Quintero.dir
+/Users/giovanni/C class/C class /Assignment_1_Giovanni_Quintero/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/giovanni/C class/C class /Assignment_1_Giovanni_Quintero/cmake-build-debug/CMakeFiles/rebuild_cache.dir

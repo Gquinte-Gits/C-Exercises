@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/giovanni/C class/C class /Assignment_1_Giovanni_Quintero/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu2x -arch arm64 -fcolor-diagnostics -o CMakeFiles/Assignment_1_Giovanni_Quintero.dir/main.c.o -c \"/Users/giovanni/C class/C class /Assignment_1_Giovanni_Quintero/main.c\"",
+  "file": "/Users/giovanni/C class/C class /Assignment_1_Giovanni_Quintero/main.c",
+  "output": "/Users/giovanni/C class/C class /Assignment_1_Giovanni_Quintero/cmake-build-debug/CMakeFiles/Assignment_1_Giovanni_Quintero.dir/main.c.o"
+}
+]
